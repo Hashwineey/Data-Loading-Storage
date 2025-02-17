@@ -1,1 +1,1 @@
-# Week 09 Python Lesson
+### This is the codes from my Data Loading & Storage Lesson
